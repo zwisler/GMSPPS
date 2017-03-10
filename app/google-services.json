@@ -1,0 +1,75 @@
+{
+  "project_info": {
+    "project_number": "414999757757",
+    "firebase_url": "https://gmspps1.firebaseio.com",
+    "project_id": "gmspps1",
+    "storage_bucket": "gmspps1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414999757757:android:2a39f303739ca669",
+        "android_client_info": {
+          "package_name": "com.citaurus.gmspps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414999757757-ahkgf8au2bmepfujajurkss5hqdcg3bm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.citaurus.gmspps",
+            "certificate_hash": "E4AA597DE0915E1581F76EA231C68EDB4F73C14E"
+          }
+        },
+        {
+          "client_id": "414999757757-ojo2fhno58v590vnj8gibn7aj2h0se04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.citaurus.gmspps",
+            "certificate_hash": "936283798D48555F08182D2315B2841AE4D69B36"
+          }
+        },
+        {
+          "client_id": "414999757757-0husrlma9vjo4jqsldfk1pkr1j93p0se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.citaurus.gmspps",
+            "certificate_hash": "5D4A5D16B8832516FFC76F91E0A77F0E6A64E3EC"
+          }
+        },
+        {
+          "client_id": "414999757757-meg30nbsf899quqhhubvarf2cjf3guk5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "414999757757-t0i02p4g2cjlnfpu6bm1valmrj7csfec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgWWeqVMeQ5HRW_wOwBs2Cg3jLANQYew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414999757757-meg30nbsf899quqhhubvarf2cjf3guk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

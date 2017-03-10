@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">gmspps</string>
+    <string name="title_text">gmspps</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Sign-in status messages -->
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="signed_out">Signed out</string>
+
+    <string name="net_staus">Connectivity Status</string>
+    <string name="net_stausError">You are not connected to the Internet</string>
+    <string name="gps_staus">GPS Status</string>
+    <string name="gps_stausError">You GPS is off</string>
+
+    <string name="password">Password</string>
+    <string name="passwordiswrong">This Password is wrong or empty</string>
+
+
+
+    <!-- Google Play Services error for Toast -->
+    <string name="play_services_error_fmt">Google Play Services Error: %i</string>
+
+    <string name="tile_content_title">GMSPPS-New Mission</string>
+    <!-- Button labels -->
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- Content Description for images -->
+    <string name="desc_google_icon">Google Logo</string>
+    <string name="desc_doit4you_icon">gmspps Logo</string>
+
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+
+    <string name="title_activity_mission">Mission</string>
+    <string name="accept">accept</string>
+    <string name="reject">reject</string>
+
+    <string name="cancel">cancel</string>
+    <string name="start">start</string>
+    <string name="finish">finish</string>
+
+
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="st1_button">free@home</string>
+    <string name="st2_button">free on the way</string>
+    <string name="st3_button">on the way to mission</string>
+    <string name="st4_button">mission startet</string>
+    <string name="st6_button">off-duty</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_provider">Providers</string>
+    <string name="title_activity_suscribe">Suscribe</string>
+</resources>

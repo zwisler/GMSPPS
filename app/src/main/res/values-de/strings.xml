@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">gmspps</string>
+    <string name="title_text">gmspps</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tile_content_title">GMSPPS-Neuer Auftrag</string>
+
+
+    <!-- Sign-in status messages -->
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="signed_out">Signed out</string>
+
+
+    <string name="net_staus">Internet Verbindung</string>
+    <string name="net_stausError">Sie sind nicht mit dem Internet verbunden!</string>
+
+    <string name="gps_staus">GPS Status</string>
+    <string name="gps_stausError">Bitte aktivieren Sie Ihr GPS</string>
+
+    <string name="password">Passwort</string>
+    <string name="passwordiswrong">Das Passwort ist falsch oder leer!</string>
+
+    <!-- Google Play Services error for Toast -->
+    <string name="play_services_error_fmt">Google Play Services Error: %i</string>
+
+    <!-- Button labels -->
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- Content Description for images -->
+    <string name="desc_google_icon">Google Logo</string>
+    <string name="desc_doit4you_icon">gmspps Logo</string>
+
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+
+
+    <string name="title_activity_mission">Auftrag</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="accept">annehmen</string>
+    <string name="reject">ablehnen</string>
+
+
+    <string name="cancel">Abbruch</string>
+    <string name="start">Start</string>
+    <string name="finish">Fertig</string>
+
+
+    <string name="st1_button">frei</string>
+    <string name="st2_button">frei@home</string>
+    <string name="st3_button">am Weg zum Einsatz</string>
+    <string name="st4_button">mission startet</string>
+    <string name="st6_button">nicht stören</string>
+
+
+
+    <string name="title_activity_provider">Provider</string>
+    <string name="title_activity_suscribe">Suscribe</string>
+
+</resources>
