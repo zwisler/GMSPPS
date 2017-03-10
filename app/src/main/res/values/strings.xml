@@ -27,6 +27,7 @@
     <string name="tile_content_title">GMSPPS-New Mission</string>
     <!-- Button labels -->
     <string name="sign_out">Sign Out</string>
+    <string name="signed_in">Signed in</string>
     <string name="disconnect">Disconnect</string>
 
     <!-- Content Description for images -->
@@ -57,4 +58,6 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="title_activity_provider">Providers</string>
     <string name="title_activity_suscribe">Suscribe</string>
+    <string name="server_client_id">414999757757-meg30nbsf899quqhhubvarf2cjf3guk5.apps.googleusercontent.com</string>
+    <string name="id_token_fmt">ID Token: %s</string>
 </resources>
