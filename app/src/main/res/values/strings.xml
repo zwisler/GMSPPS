@@ -8,7 +8,7 @@
 
     <!-- Sign-in status messages -->
     <string name="signed_in_fmt">Signed in as: %s</string>
-    <string name="signing_in">Signing in…</string>
+    <string name="signed_in">Signed in</string>
     <string name="signed_out">Signed out</string>
 
     <string name="net_staus">Connectivity Status</string>
@@ -27,7 +27,7 @@
     <string name="tile_content_title">GMSPPS-New Mission</string>
     <!-- Button labels -->
     <string name="sign_out">Sign Out</string>
-    <string name="signed_in">Signed in</string>
+    <string name="sign_in">Sign in</string>
     <string name="disconnect">Disconnect</string>
 
     <!-- Content Description for images -->
